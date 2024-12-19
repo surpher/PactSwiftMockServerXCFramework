@@ -4,7 +4,7 @@
 
 libpact_ffi-v0.4.23
 
-* 893b98f - Refactor release script (Marko Justinek)
+* 7c931d2 - Refactor release script (Marko Justinek)
 * 7ba969f - Fix generate_version_number func (Marko Justinek)
 * 97e14cd - Attempt to fix libpact_ffi build on CI (Marko Justinek)
 * 0a9a2fa - Feature/swift concurrency (#15) (Marko Justinek)
