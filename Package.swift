@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PactSwiftMockServer",
-            url: "https://github.com/surpher/PactSwiftMockServerXCFramework/releases/download/v1.0.3/PactSwiftMockServer-v1.0.3.zip",
-            checksum: "82c97ca7db0852d8395271ffc071824a2932ccb83435bfb1ffbde29237e14225"
+            url: "https://github.com/surpher/PactSwiftMockServerXCFramework/releases/download/v1.1.0/PactSwiftMockServer-v1.1.0.zip",
+            checksum: "c1952c331f6b1e7f1d61d6a2e6daf1a9d4c7cab9eab695df0cfd1a56f78e64ed"
         ),
     ]
 )
